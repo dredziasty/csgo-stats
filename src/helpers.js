@@ -1,0 +1,2 @@
+export const avg = arr => key => (arr.map(({ scoreBoard }) => scoreBoard[key]).reduce((p, c) => p + c, 0) / arr.length).toFixed(0)
+export const getValue = arr => obj => key => arr.map(item => obj !== null ? item[obj][key] : item[key])

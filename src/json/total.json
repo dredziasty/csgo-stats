@@ -1,0 +1,121 @@
+{
+  "matches": {
+    "total": 15,
+    "wins": 7,
+    "loses": 7,
+    "ties": 1
+  },
+  "maps": [
+    {
+      "name": "de_mirage",
+      "total": 13,
+      "wins": 7,
+      "loses": 5,
+      "ties": 1
+    },
+    {
+      "name": "de_dust2",
+      "total": 2,
+      "wins": 0,
+      "loses": 2,
+      "ties": 0
+    }
+  ],
+  "rounds": {
+    "total": 400,
+    "won": 194,
+    "lost": 206
+  },
+  "players": [
+    {
+      "steamId": "STEAM_1:1:74877739",
+      "name": "boomer",
+      "stats": {
+        "kills": 328,
+        "assists": 56,
+        "deaths": 298,
+        "headShotKills": 127,
+        "damage": 36186,
+        "threeK": 20,
+        "fourK": 2,
+        "fiveK": 0,
+        "mvps": 38,
+        "hsp": 38.72,
+        "kd": 1.1,
+        "adr": 90.47
+      }
+    },
+    {
+      "steamId": "STEAM_1:1:109168251",
+      "name": "Patriarcha",
+      "stats": {
+        "kills": 280,
+        "assists": 83,
+        "deaths": 321,
+        "headShotKills": 132,
+        "damage": 33559,
+        "threeK": 14,
+        "fourK": 3,
+        "fiveK": 1,
+        "mvps": 47,
+        "hsp": 47.14,
+        "kd": 0.87,
+        "adr": 83.9
+      }
+    },
+    {
+      "steamId": "STEAM_1:1:153997677",
+      "name": "dred",
+      "stats": {
+        "kills": 315,
+        "assists": 59,
+        "deaths": 253,
+        "headShotKills": 112,
+        "damage": 33229,
+        "threeK": 17,
+        "fourK": 4,
+        "fiveK": 0,
+        "mvps": 36,
+        "hsp": 35.56,
+        "kd": 1.25,
+        "adr": 83.07
+      }
+    },
+    {
+      "steamId": "STEAM_1:1:106721878",
+      "name": "thestrike",
+      "stats": {
+        "kills": 307,
+        "assists": 53,
+        "deaths": 287,
+        "headShotKills": 133,
+        "damage": 32217,
+        "threeK": 24,
+        "fourK": 3,
+        "fiveK": 0,
+        "mvps": 47,
+        "hsp": 43.32,
+        "kd": 1.07,
+        "adr": 80.54
+      }
+    },
+    {
+      "steamId": "STEAM_1:0:60686950",
+      "name": "Szymon Antony",
+      "stats": {
+        "kills": 217,
+        "assists": 55,
+        "deaths": 280,
+        "headShotKills": 49,
+        "damage": 24093,
+        "threeK": 8,
+        "fourK": 2,
+        "fiveK": 0,
+        "mvps": 21,
+        "hsp": 22.58,
+        "kd": 0.78,
+        "adr": 60.23
+      }
+    }
+  ]
+}
