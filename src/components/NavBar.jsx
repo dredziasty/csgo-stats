@@ -7,7 +7,7 @@ const links = [
   { to: '/p/patriarcha', text: 'Patriarcha' },
   { to: '/p/dred', text: 'dred' },
   { to: '/p/thestrike', text: 'thestrike'  },
-  { to: '/p/szymon-antony', text: 'Szymon Antony' }
+  { to: '/p/legdin', text: 'Legdin' }
 ]
 
 const Container = styled.div`

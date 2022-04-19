@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import axios from 'axios'
 
-const slugs = ['boomer', 'patriarcha', 'dred', 'thestrike', 'szymon-antony']
+const slugs = ['boomer', 'patriarcha', 'dred', 'thestrike', 'legdin']
 
 const usePlayer = (slug) => {
   const [name, setName] = useState('')
